@@ -1,0 +1,33 @@
+
+D
+src/module-info.java,c\d\cdc434daeee688944ced38ff1c9875422db88382
+g
+7src/springDependencyInjection/di/entity/NewlecExam.java,d\8\d8ecddb4e74faec3cccbf4337eafca733445e649
+a
+1src/springDependencyInjection/di/entity/Exam.java,0\d\0dc6d7785780668511db1e1d2420089d178045fd
+d
+4src/springDependencyInjection/di/ui/ExamConsole.java,a\4\a45a66703c17288fa36b559ba5960bbe65a834c1
+e
+5src/springDependencyInjection/di/GridExamConsole.java,3\d\3d7095056a550d873fe13e4a7474db657d51e5eb
+I
+src/practice/di/Exam.java,8\f\8f1699b150547cab808b219b13b99827ed0262c8
+P
+ src/practice/entity/di/Exam.java,d\9\d9db56f984796e617a076c6c6599733ccda3de75
+S
+#src/practice/di/ui/ExamConsole.java,d\c\dc81eef8ca3ebcbb69f784fb583003ce47cecac4
+]
+-src/springDependencyInjection/di/Program.java,3\a\3a45c2e8fecb07f58278eadd0169a4e12f5ac8df
+j
+:src/springDependencyInjection/di/ui/InlineExamConsole.java,3\0\306d177b59ae82334311ef52afe10c271d33e6e2
+V
+&src/practice/di/InlineExamConsole.java,1\8\185ba7bdd1ae9048a435b05acb395cea14b08756
+h
+8src/springDependencyInjection/di/ui/GridExamConsole.java,d\f\df7a64e1803309bce19aebebe456ba57c7364a0c
+L
+src/practice/di/Program.java,5\f\5f40adc3a85afd82b21f2d2c2723db414e3e5003
+V
+&src/practice/di/entity/NewlecExam.java,6\9\696a136a1cd0e3545e23e53b10a7442da24808be
+P
+ src/practice/di/entity/Exam.java,b\a\ba0cfc4b1993c0a73da843eb4cafbdef5886d086
+W
+'src/practice/di/ui/GridExamConsole.java,e\0\e014e41faf207bc27590ac2eb53e72861147d3d5

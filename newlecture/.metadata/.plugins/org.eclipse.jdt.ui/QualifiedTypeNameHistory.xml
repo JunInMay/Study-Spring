@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.jcp.xml.dsig.internal.SignerOutputStream"/>
+    <fullyQualifiedTypeName name="springDependencyInjection.di.ui.ExamConsole"/>
+    <fullyQualifiedTypeName name="practice.di.entity.Exam"/>
+    <fullyQualifiedTypeName name="practice.di.ui.GridExamConsole"/>
+</qualifiedTypeNameHistroy>

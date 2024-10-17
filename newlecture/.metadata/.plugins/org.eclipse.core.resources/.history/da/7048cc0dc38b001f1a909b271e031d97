@@ -1,0 +1,5 @@
+package practice.di.ui;
+
+public interface ExamConsole {
+
+}

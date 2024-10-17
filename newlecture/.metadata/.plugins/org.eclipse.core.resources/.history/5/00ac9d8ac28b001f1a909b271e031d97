@@ -1,0 +1,5 @@
+package practice.entity.di;
+
+public interface Exam {
+
+}

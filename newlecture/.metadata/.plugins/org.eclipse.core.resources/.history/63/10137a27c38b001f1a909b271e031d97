@@ -1,0 +1,16 @@
+package practice.di;
+
+import practice.di.entity.Exam;
+import practice.di.entity.NewlecExam;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Exam exam = new NewlecExam();
+		
+		ExamConsole console = new ExamConsole(exam);
+
+	}
+
+}

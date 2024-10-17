@@ -1,0 +1,17 @@
+package practice.di;
+
+import practice.di.ui.ExamConsole;
+
+public class InlineExamConsole implements ExamConsole {
+	private Exam exam;
+	
+	public InlineExamConsole(Exam exam) {
+		this.exam = exam;
+	}
+
+	@Override
+	public void print() {
+
+	}
+
+}
