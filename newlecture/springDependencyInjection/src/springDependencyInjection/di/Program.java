@@ -16,6 +16,7 @@ public class Program {
 		// grid : 그리드로 출력하는 예제
 
 		ExamConsole console = new GridExamConsole(exam);
+		console.setExam(exam);
 		
 		console.print();
 		
