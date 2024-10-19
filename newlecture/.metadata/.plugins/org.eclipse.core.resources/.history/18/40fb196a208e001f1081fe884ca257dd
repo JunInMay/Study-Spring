@@ -4,9 +4,6 @@
     xsi:schemaLocation="
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 	<bean id="exam" class="springDependencyInjection.di.entity.NewlecExam"></bean>
-	<bean id="console" class="springDependencyInjection.di.ui.GridExamConsole">
-		<property name="exam" ref="exam" />
-	</bean>
     <!-- bean definitions here -->
 
 </beans>
