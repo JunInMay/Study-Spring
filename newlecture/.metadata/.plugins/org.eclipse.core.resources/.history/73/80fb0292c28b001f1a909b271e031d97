@@ -1,7 +1,0 @@
-package practice.entity.di;
-
-public interface Exam {
-	int total();
-	
-	float avg();
-}

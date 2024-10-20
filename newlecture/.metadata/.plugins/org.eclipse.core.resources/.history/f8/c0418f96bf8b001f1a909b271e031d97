@@ -1,9 +1,0 @@
-package springDependencyInjection.di;
-
-public class Program {
-
-	public static void main(String[] args) {
-		Exam exam = new NewlecExam();
-		
-	}
-}
