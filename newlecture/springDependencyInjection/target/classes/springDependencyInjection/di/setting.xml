@@ -3,8 +3,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-	<bean id="exam" class="springDependencyInjection.di.entity.NewlecExam"></bean>
-	<bean id="console" class="springDependencyInjection.di.ui.InlineExamConsole">
-		<property name="exam" ref="exam" />
+	<bean id="exam" class="springDependencyInjection.di.entity.NewlecExam">
+		<property name="kor" value="20" />
+		<property name="eng" value="20" />
+		<property name="math" value="20" />
+		<property name="com" value="20" />
+	</bean>
+	<bean id="console" class="springDependencyInjection.di.ui.GridExamConsole">
+		<property name="exam">
+			<ref bean="exam"></ref>
+		</property>
 	</bean>
 </beans>
