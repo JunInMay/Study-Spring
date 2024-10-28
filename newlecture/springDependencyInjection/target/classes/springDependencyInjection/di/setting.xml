@@ -10,9 +10,7 @@
         http://www.springframework.org/schema/util/spring-util.xsd">
 	<bean id="exam" class="springDependencyInjection.di.entity.NewlecExam" p:kor="10" />
 	<bean id="console" class="springDependencyInjection.di.ui.GridExamConsole">
-		<property name="exam">
-			<ref bean="exam"></ref>
-		</property>
+		<property name="exam" ref="exam" />
 	</bean>
 	 
 	<util:list id="exams" list-class="java.util.ArrayList">
